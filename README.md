@@ -116,8 +116,8 @@ Feel free to submit pull requests or report issues to improve this tool.
 
 For queries or suggestions, reach out to me on:
 
-- GitHub: [yourgithubusername](https://github.com/k4r7h1kn)
-- Twitter: [yourtwitterhandle](https://twitter.com/k4r7h1kn)
+- GitHub: [k4r7h1kn](https://github.com/k4r7h1kn)
+- Twitter: [k4r7h1kn](https://twitter.com/k4r7h1kn)
 
 ---
 
