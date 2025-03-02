@@ -108,9 +108,6 @@ The tool will prompt you to enter a domain for enumeration:
 [✔] Enumeration completed successfully!
 ```
 
-## 📜 License
-
-This project is open-source and licensed under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
@@ -120,8 +117,8 @@ Feel free to submit pull requests or report issues to improve this tool.
 
 For queries or suggestions, reach out to me on:
 
-- GitHub: [yourgithubusername](https://github.com/yourgithubusername)
-- Twitter: [yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- GitHub: [yourgithubusername](https://github.com/k4r7h1kn)
+- Twitter: [yourtwitterhandle](https://twitter.com/k4r7h1kn)
 
 ---
 
